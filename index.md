@@ -69,39 +69,39 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 meteor npm run lint
 ```
 
-**User Interface Walkthrough**
+__User Interface Walkthrough__
 
-*Landing Page*  
+__Landing Page__  
 When you first bring up the application, you will see the landing page that provides a brief introduction to the capabilities of Digits:
 
 <img src="doc/Landing.png">
 
-*Register*
+__Register__    
 If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
 
 <img src="doc/Register.png">
 
-*Sign in*
+__Sign in__  
 Click on the Login link, then click on the Signin link to bring up the Sign In page which allows you to login:
 
 <img src="doc/Login.png">
 
-*User home page*
+__User home page__  
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
 
 <img src="doc/Home.png">
 
-*List Contacts*
+__List Contacts__    
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
 
 <img src="doc/Contacts.png">
 
-*Edit Contacts*
+__Edit Contacts__    
 From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
 
 <img src="doc/Edit.png">
 
-*Admin mode*
+__Admin mode__   
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
 <img src="doc/Admin.png">
