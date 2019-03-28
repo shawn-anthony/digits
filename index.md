@@ -77,7 +77,7 @@ When you first bring up the application, you will see the landing page that prov
 <img src="doc/Landing.png">
 
 #Register
-If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
+If you do not yet have an account on the system, you can register by clicking on â€œLoginâ€, then â€œSign Upâ€:
 
 <img src="doc/Landing.png">
 
@@ -96,17 +96,17 @@ Clicking on the List Contacts link brings up a page that lists all of the contac
 
 <img src="doc/Landing.png">
 
-This page also allows the user to add timestamped “notes” detailing interactions they’ve had with the Contact. For example:
+This page also allows the user to add timestamped â€œnotesâ€ detailing interactions theyâ€™ve had with the Contact. For example:
 
 
 <img src="doc/Landing.png">
 
 #Edit Contacts
-From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
+From the List Contacts page, the user can click the â€œEditâ€ link associated with any Contact to bring up a page that allows that Contact information to be edited:
 
 <img src="doc/Landing.png">
 
 #Admin mode
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
+It is possible to designate one or more users as â€œAdminsâ€ through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
 <img src="doc/Landing.png">
