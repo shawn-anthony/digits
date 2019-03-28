@@ -63,7 +63,7 @@ so the performance implications are negligible until your site has very high tra
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), 
 or else register a new account.
 
-Lastly, you can run ESLint over the code in the imports/ directory with:
+Lastly, you can run ESLint over the code in the imports/ directory with:  
 
 ```
 meteor npm run lint
