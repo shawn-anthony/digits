@@ -25,6 +25,23 @@ $ meteor npm run start
 The first time you run the app, it will create some default users and data. Here is the output:
 
 ```
+meteor npm run start
+
+[[[[[ C:\Users\Shawn\Documents\GitHub\digits\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+I20190327-22:20:47.655(-10)? Creating the default user(s)
+I20190327-22:20:47.655(-10)?   Creating user admin@foo.com.
+I20190327-22:20:47.656(-10)?   Creating user john@foo.com.
+I20190327-22:20:47.656(-10)? Creating default contacts.
+I20190327-22:20:47.657(-10)?   Adding: Johnson (john@foo.com)
+I20190327-22:20:47.657(-10)?   Adding: Casanova (john@foo.com)
+I20190327-22:20:47.658(-10)?   Adding: Binsted (admin@foo.com)
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
 ```
 
 Note regarding bcrypt warning. You will also get the following message when you run this application:
